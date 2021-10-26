@@ -20,6 +20,6 @@ I am currently still building out this app, and will be updating it as I go. The
 
 ### Packages (NPM)
 
-* React Router / Toolkit
+* React Router
 * Styled Components
-* Redux
+* Redux / Toolkit
