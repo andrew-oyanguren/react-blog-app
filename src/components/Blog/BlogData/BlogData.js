@@ -27,7 +27,7 @@ const blogData = [
   {
     title: 'Winter Weather',
     body: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed quos recusandae temporibus obcaecati commodi quisquam architecto blanditiis excepturi eligendi tenetur?',
-    author: 'Stormy Manuals'
+    author: 'Frosty The Snowman'
   }
 ];
 
