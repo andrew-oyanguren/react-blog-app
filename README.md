@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project uses React Redux to manage multiple state slices from user authentication, form validation, sideDrawer states etc. I created custom hooks for form inputs, http requests, and window object hooks to implement scroll behavior on the header background and create a responsive navbar. Lastly I used styled components to create a theme, resusable mixins, and to set global styling all which are located in the styles folder.
+This project uses React Redux to manage multiple state slices from user authentication, form validation, sideDrawer states etc. I created custom hooks for form inputs, http requests, and window object hooks to implement scroll behavior on the header background and create a responsive navbar. Some features included are saving a logged-in state to local storage, a user tab to view user image and a logout button, and saved data files used to dynamically render lists. Lastly I used styled components to create a theme, resusable mixins, and to set global styling all which are located in the styles folder.
 
 ## Key Takeaways
 
